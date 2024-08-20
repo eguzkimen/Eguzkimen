@@ -1,16 +1,18 @@
-## Hi there 👋
+## Howdy 👋
+I'm Eguzki, and I:
+- write frontend code for Netflix 📺
+- geek out about diagrams 📈🖍️
+- enjoy learning languages 🌎
+- mentor aspiring software engineers 👨🏻‍🏫
+- am Mexican 🇲🇽
 
-<!--
-**eguzkimen/Eguzkimen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm currently obssesed with
+- Hexagonal architecture, applied to React
+- The arabic language
+- Yoga
 
-Here are some ideas to get you started:
+### Some links!
+* 👔 Linkedin
+* 📬 E-mail
+* [My old GH account](https://github.com/Eguzkiman?tab=repositories&q=egu&type=&language=&sort=)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
