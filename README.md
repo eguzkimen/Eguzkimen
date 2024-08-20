@@ -1,4 +1,4 @@
-## Howdy friend 👋
+## Howdy friends 👋
 I'm Eguzki, and I:
 - write frontend code for Netflix 📺
 - geek out about diagrams 📈🖍️
